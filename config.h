@@ -28,7 +28,7 @@ static const char *colors[][3]      = {
 };
 
 static const char *const autostart[] = {
-	"pa-applet", NULL,
+	"nm-applet", NULL,
 	"slstatus", NULL,	
 	NULL /* terminate */
 };
